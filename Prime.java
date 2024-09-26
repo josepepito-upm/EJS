@@ -14,5 +14,7 @@ public class Prime {
     while (NUM%i != 0) { i++; }
 
     System.out.printf("%d %s primo. \n", NUM, NUM == i ? "es" : "no es");  
-    }
+
+    System.out.println("Hola");
+}
 }
